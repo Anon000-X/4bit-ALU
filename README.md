@@ -277,3 +277,9 @@ My next plan is to add registers and gradually upgrade this design into a 32-bit
 For now, though, I'm happy that the thing works.
 
 Thank you for reading!
+
+## 8. Demo
+
+This is the video I made to show you all the results (please watch it. I'm begging you all).
+
+[Testing my own 4-bit ALU (for my university assignment)](https://www.youtube.com/watch?v=henuJ81b_-8)
